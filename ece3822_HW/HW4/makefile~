@@ -1,0 +1,18 @@
+# file: makefile
+#
+
+# define target for application
+#
+all: hw_3
+
+# define target to link the application
+#
+hw_3: f_00.o f_01.o
+	g++ -g -o hw_03 f_00.o f_01.o
+
+# define target to compile the application
+#
+f_00.o: f_00.cc
+	g++ -o2 -c -g f_00.cc -o f_00.o
+f_01.o: f_01.cc
+	g++ -o2 -c -g f_01.cc -o f_01.o

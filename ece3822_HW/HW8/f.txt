@@ -1,0 +1,10 @@
+/home/djj/ece_3822/data_v00/book_19/00003017_20040419/Gode_Jennifer/eg_00.txt
+/home/djj/ece_3822/data_v00/book_19/00003017_20040419/Gode_Jennifer/eg_01.txt
+/home/djj/ece_3822/data_v00/book_19/00003017_20040419/Kaut_Drusilla/eg_00.txt
+/home/djj/ece_3822/data_v00/book_19/00003017_20040419/Kaut_Drusilla/eg_01.txt
+/home/djj/ece_3822/data_v00/book_19/00003017_20040419/Tivis_Lashawn/eg_00.txt
+/home/djj/ece_3822/data_v00/book_19/00003017_20040419/Tivis_Lashawn/eg_01.txt
+/home/djj/ece_3822/data_v00/book_19/00003017_20040419/Marcks_Barbie/eg_00.txt
+/home/djj/ece_3822/data_v00/book_19/00003017_20040419/Marcks_Barbie/eg_01.txt
+/home/djj/ece_3822/data_v00/book_19/00003017_20040419/Parat_Tammera/eg_00.txt
+/home/djj/ece_3822/data_v00/book_19/00003017_20040419/Parat_Tammera/eg_01.txt

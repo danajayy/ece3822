@@ -1,0 +1,29 @@
+#ifndef HW_07_H
+#define HW_07_H
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <iostream>
+#include <string.h>
+
+class NL {
+
+  //protected
+  //
+ protected:
+  char* name;
+  FILE* namefile;
+  
+  // public
+  //
+ public:
+  NL(); // constructor declaration
+  ~NL(); // destructor declaration
+
+  bool readfile(FILE* fp_a);
+  bool writefile(FILE* fp_a);
+  bool debug(FILE* fp);
+
+}
+
+#endif

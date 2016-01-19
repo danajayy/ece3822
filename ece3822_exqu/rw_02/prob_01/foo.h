@@ -1,3 +1,5 @@
+// This is a rework for exam 2 problem 1
+
 #ifndef FOO_H
 #define FOO_H
 

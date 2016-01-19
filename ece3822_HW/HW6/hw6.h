@@ -4,13 +4,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <iostream>
 
 static const int bytecount = 1024;
 
+int readfile (FILE* openfile, int dataformat, int num);
+int read_flags(int argc, char *argv[], int &dataformat, int &numlines);
 void helpflag (void); // function prototype for -h flag
-int display_numbers (int num); // function prototype for -numbers flag
-//int dataread (
 
 
 #endif

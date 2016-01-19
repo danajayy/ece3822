@@ -1,0 +1,5 @@
+Here is some random text that has spelled out numbers in the text. For example, I can say thirty three or thirty-three, fifteen or zero oh. I could also say this person has zero chance of being successful – was that a number? Your job is to write a program to compute the sum of the squares of all the spelled numbers in this text. I would begin by highlighting all the numbers that appear here, such as three, and then adding up the squares manually so you know the answer.
+
+Note that this text could also have addresses in it. For example, John Smith lives at 333 So. Main Street. It could have zip codes such as 19122. But you only need to find spelled numbers, like seven, and sixty-seven. They can appear as mixed case or uppercase, such as Seven or SEVEN.
+
+Isn’t text processing fun... especially when we realize that phrases like World War II, section eight and double aught three can pose problems? I can also have “three” and “three!”.

@@ -1,0 +1,17 @@
+#ifndef HW6_H
+#define HW6_H
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <iostream>
+
+static const int bytecount = 1024;
+
+int readopen_file(char fp[], int dataformat); // function prototype for reading and opening file
+int read_flags(char argv[], int &dataformat);
+void helpflag (void); // function prototype for -h flag
+int display_numbers (int num); // function prototype for -numbers flag
+
+
+#endif

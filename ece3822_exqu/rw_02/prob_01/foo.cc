@@ -1,3 +1,5 @@
+// This is a rework for exam 2 problem 1
+
 #include "foo.h" // import custom header file that contains the class lamp and its implementations
 
 int main (int argc, char** argv) {

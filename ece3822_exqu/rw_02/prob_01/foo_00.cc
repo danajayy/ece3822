@@ -1,3 +1,5 @@
+// This is the rework for exam 2 problem 1
+
 #include "foo.h" // need to include foo.h because contains all the class method declarations
 
 // defining constructor to initialize all data to be -1
